@@ -42,3 +42,28 @@ int main()
 	getch();
 	return 0;
 }
+
+
+
+
+output:
+enter the no: intermediate code:3
+enter the 3 address code:1:12
+21
+enter the 3 address code:2:13
+31
+enter the 3 address code:3:14
+41
+the generated code is:
+ mov 
+,R0
+ mov R0,1
+
+ mov 
+,R1
+ mov R1,1
+
+ mov 
+,R2
+ mov R2,1
+
