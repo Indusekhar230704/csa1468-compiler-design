@@ -21,3 +21,10 @@ break;
 if(flag==1)
 printf("\n Valid identifier"); 
 }
+
+
+
+
+oouput:
+Enter an identifier:as
+ Valid identifier
