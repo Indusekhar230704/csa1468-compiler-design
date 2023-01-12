@@ -39,3 +39,12 @@ else
 printf("\n It is Not a Comment.");
 
 }
+
+
+
+
+output:
+
+ Enter Text : //indusekhar
+
+ It is a Comment.
